@@ -12,7 +12,7 @@
 
 ## My skills 
 
-![stack](https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,kafka,docker,mongodb,mysql,nodejs,react,python,cpp,html,css,git,,,,,,)
+![stack](https://skillicons.dev/icons?i=java,,spring,,maven,,gradle,,hibernate,,kafka,,docker,,mongodb,,mysql,,nodejs,,react,,python,,cpp,,html,,css,,git,,,,,,)
 
 ### 🌍 Find Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19">
 <p align="center">
