@@ -1,7 +1,8 @@
 ﻿# WELCOME on My profile, I'm _Dominik_ <h1 align="center">
 <h1 align="center">
 
-<img src="assets/img.png" height="90" alt="dogoMeme_photo"> (˶˃ ᵕ ˂˶)  <img src="assets/img1.png" height="100" alt="cat_photo">
+<img src="assets/img.png" height="90" alt="dogoMeme_photo"> 
+(˶˃ ᵕ ˂˶)  <img src="assets/img1.png" height="100" alt="cat_photo">
 </h1>
 
 ### About Me
